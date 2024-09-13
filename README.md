@@ -16,6 +16,7 @@ This project involves creating visualizations to explore the distribution of a c
   ☑Data cleaning and preprocessing:
 
   ⏩I understood the importance of cleaning and preparing data to ensure it’s suitable for analysis, which includes handling missing or invalid data.
+  
   ☑Data visualization techniques:
 
   ⏩I gained experience in using bar charts and histograms to visualize data distributions, helping uncover patterns and trends.
