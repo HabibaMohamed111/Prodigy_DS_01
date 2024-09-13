@@ -5,6 +5,7 @@ This project involves creating visualizations to explore the distribution of a c
 
 # Tools
 1. Pandas
+   
 2.Matplotlib & Seaborn for visualization
 
 # Throughout this project, I gained several valuable insights and skills:
